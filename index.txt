@@ -60,7 +60,7 @@ I make high-quality photos of any category at a professional level.
 
 ## testimonials
 
-Testimonials
+/*Testimonials
 
 alt = Daniel lewis
 Daniel lewis
@@ -83,7 +83,7 @@ Richard was hired to create a corporate identity. We were very pleased with the 
 
 Clients
 
-alt = client logo
+alt = client logo*/
 
 
 
